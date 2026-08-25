@@ -1,4 +1,8 @@
-# Nykaa_Bussiness_analytics
+# 🛒 Nykaa RetailIQ: Price & Catalog Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rachana-cpu/Nykaa_Business_analytics/blob/main/Nykaa_Business_Analytics.ipynb)
+
+This project involves data analytics and predictive modeling of e-commerce beauty product catalog data from Nykaa...# Nykaa_Bussiness_analytics
 End-to-end data analytics and predictive pricing project analyzing brand catalog distribution and discount strategies on Nykaa.
 🛒 Nykaa RetailIQ: Price & Catalog Analysis
 This project involves data analytics and predictive modeling of e-commerce beauty product catalog data from Nykaa. Using Pandas, Matplotlib, Seaborn, and Scikit-Learn, we explore pricing structures, brand catalog distributions, and evaluate promotional discount strategies.
